@@ -2,7 +2,7 @@
   ## Hello! I'm Abner Ribeiro wellcome to my profile 
   
 - 🌱 I’m currently learning mobile development with flutter  
-- 📫 How to reach me: E-mail: sabner838@gmail.com, linkedin: https://www.linkedin.com/in/abner-ribeiro-silva/
+- 📫 How to reach me: E-mail: ribeiro.abner2000@gmail.com, linkedin: https://www.linkedin.com/in/abner-ribeiro-silva/
   
   <div align="center">
   <a href="https://github.com/AbnerRibeirodaSilva">
