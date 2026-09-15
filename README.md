@@ -14,4 +14,5 @@ Tech stack
 Also: Clean Architecture · Riverpod · Bloc/Cubit · MobX · GetX · CI/CD · REST APIs
 
 Contact
-<p align="left"> <a href="https://www.linkedin.com/in/abner-ribeiro-silva/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:ribeiro.abner2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/abner-ribeiro-silva/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ribeiro.abner2000@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a> </p>
+
